@@ -1,0 +1,2 @@
+Aslan
+Namensbedeutung: zusammengeschlagen

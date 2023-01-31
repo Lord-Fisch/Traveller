@@ -1,0 +1,65 @@
+{
+  "collapse-filter": false,
+  "search": "-file:Session",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": false,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:Traveller/05_Players",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:Traveller/04_Characters",
+      "color": {
+        "a": 1,
+        "rgb": 14745855
+      }
+    },
+    {
+      "query": "path:Traveller/03_Places",
+      "color": {
+        "a": 1,
+        "rgb": 5562450
+      }
+    },
+    {
+      "query": "path:Traveller/06_Notes",
+      "color": {
+        "a": 1,
+        "rgb": 16741120
+      }
+    },
+    {
+      "query": "path:Traveller/06_Ships",
+      "color": {
+        "a": 1,
+        "rgb": 9043968
+      }
+    },
+    {
+      "query": "path:Traveller/07_Miscellaneous",
+      "color": {
+        "a": 1,
+        "rgb": 5197647
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": -3,
+  "nodeSizeMultiplier": 1.01875,
+  "lineSizeMultiplier": 1.06979166666667,
+  "collapse-forces": false,
+  "centerStrength": 0.526041666666667,
+  "repelStrength": 12.7083333333333,
+  "linkStrength": 1,
+  "linkDistance": 106,
+  "scale": 0.5087618855792595,
+  "close": false
+}

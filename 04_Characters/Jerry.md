@@ -1,0 +1,1 @@
+Bekannte: [[Pascal Faulknen]], [[Biff]]

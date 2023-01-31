@@ -1,0 +1,20 @@
+Datum: 2023-02-26
+Vorherige Session: [[Session 2]]
+
+Bei genauerer Untersuchung des [[Torso]] erkannten wir ([[Harvey 'Harv' Tuft]], [[Brano Iskamar]], [[Ianto Holbrook]], [[Leroy Jethro Gibbs]] und [[Jack de Lek]]), das die Person, welcher dieser gehörte schon mindestens 2 Tage tot sein muss und das dessen Extemitäten wahrscheinlich mit einem scharfen Gegenstand grob abgetrennt wurden.
+Nachdem wir uns vom Anblick des Torsos erholt hatten, haben wir die Räume genauer untersucht. Dabei fanden wir [[leere Ampullen]] unter dem Bett, welche wir zur genaueren Untersuchung an uns nahmen. Zusätzlich viel uns ein [[Aschenbecher]] auf dem Schreibtisch auf, da dieser trotzt der automatischen Entleerung mehr als überfüllt war was uns darauf schließen ließ das sich darin Zigaretten von mehr als einer Person befinden. Ebenfalls auf dem Schreibtisch sahen wir 2 leere [[Delivery Tubes]]. Als wir das Zimmer nach weiteren Blutspuren untersuchten, fanden wir Spuren vom Torso hin zum Müllschacht. Warum die Gliedmaßen vernichtet wurden, der Torso aber zurückgelassen wurde konnten wir uns jedoch nicht erklären.
+Wir steckten den Aschenbecher und die Tubes ein und machten uns zusammen mit dem Torso auf den Weg ins Labor um alles genauer unter die Lupe zu nehmen.
+
+Im [[Labor]] begannen wir mit einer DNA Analyse des Torsos, welche genau das bestätigte was wir bereits vermutetten: Es handelte sich bei dem Toten um [[Hummit Madson]].
+Eine Blutanalyse des Torsos ergab das Captain Madson vor seinem Tot größere Mengen [[Wahrheitsserum]], Alkohol und [[Krash]] verabreicht wurden. Die Analyse der Ampulen, zeigte das dort drin sich das Wahrheitsserum befand.
+Bei der Prüfung der [[Delivery Tubes]] auf Fingerabdrücke fanden sich die Abdrücke von [[Kari Gimsa]] der Sensor Operator der [[GT-56]]. Ein Anruf bei der Poststelle zeigte das die Tubes vor 3 Tagen um 03:27 Uhr an [[Captain Madson's Wohnung]] geliefert wurden. Dabei befanden sich 3 Packungen Instant-Nudeln sowie 3 Getränkedosen in der Bestellung.
+Eine weitere DNA Analyse des [[Aschenbecher]] fand sich die DNA von [[Kari Gimsa]] und [[Hart Fonrroe]] dem Captain der GT-56. Eine Computeranalyse durch [[Brano Iskamar]] fand heraus das Kari oft mit der Crew der GT-56, sowie ihrem Bruder [[Lance Gimsa]] und dem Dock Crew Mechaniker [[Dyrrol Mollik]] zusammen kommt.
+
+Nachdem wir gemeinsam die Analysen durckgeführt hatten, gingen [[Brano Iskamar]] und [[Ianto Holbrook]] zum Dock um mit Dyrrol zu sprechen. Anschließend gingen sie Richtung Casino um nach seiner Arbeit weiter mit Dyrrol zu sprechen.
+Währenddessen machte ich mich auf den Weg mir etwas zu Essen zu suchen. Dabei lief ich in eine [[Dunkle Gasse]] wo ich von hinten mit einem Metallrohr angegriffen wurde. Was der Angreifer jedoch nicht wusste, ist das ich bewaffnet war. Ich zog meine Gauss-Pistole, drehte mich um und schoss dem Angreifer in den Arm, welcher durch die kurze Entfernung abgetrennt wurde. Da ich nicht wollte das der Angreifer verblutet, nutzte ich meine Erste Hilfe Kenntnisse um die Blutung zu stoppen und rief meine Kollegen an.
+Gemeinsam entschieden wir und den Angreifer selbst ins [[Med Bay]] zu bringen. Im Med Bay alamierten die Ärtzte sofort den Sicherheitsdienst aufgrund der Stärke der Verletzung. [[Marja Aguilar]] sagte mir das ich noch einmal Glück hatte denn sie müsste mich schon alleine für das abfeuern einer Waffe einsperren, da ich mich aber direkt um die Wundversorgung gekümmert habe, würde sie noch einmal ein Auge zudrücken.
+Während der Angreifer im OP war um seinen Arm wieder anzubringen, fanden wir deren Identität heraus. Es handelte sich um [[Dyrrol Mollik]]. Bei der Untersuchung seiner Kleidung fanden wir auch etwas [[Krash]].
+
+Während Dyrrol im OP war, nutzten wir die Zeit um die Gasse nocheinmal genauere anzusehen. Allerdings, konnten wir außer einer durchtrennten Kameraleitung nichts entdecken, also machten wir uns auf den Weg ins Bett um uns zu erholen und Dyroll am nächsten Tag zu befragen.
+
+Nächste Session: [[Session 4]]

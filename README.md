@@ -1,0 +1,1 @@
+to use this project and make sure all links work, download the files and open them in https://obsidian.md/
