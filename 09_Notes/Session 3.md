@@ -15,6 +15,6 @@ Währenddessen machte ich mich auf den Weg mir etwas zu Essen zu suchen. Dabei l
 Gemeinsam entschieden wir und den Angreifer selbst ins [[Med Bay]] zu bringen. Im Med Bay alamierten die Ärtzte sofort den Sicherheitsdienst aufgrund der Stärke der Verletzung. [[Marja Aguilar]] sagte mir das ich noch einmal Glück hatte denn sie müsste mich schon alleine für das abfeuern einer Waffe einsperren, da ich mich aber direkt um die Wundversorgung gekümmert habe, würde sie noch einmal ein Auge zudrücken.
 Während der Angreifer im OP war um seinen Arm wieder anzubringen, fanden wir deren Identität heraus. Es handelte sich um [[Dyrrol Mollik]]. Bei der Untersuchung seiner Kleidung fanden wir auch etwas [[Krash]].
 
-Während Dyrrol im OP war, nutzten wir die Zeit um die Gasse nocheinmal genauere anzusehen. Allerdings, konnten wir außer einer durchtrennten Kameraleitung nichts entdecken, also machten wir uns auf den Weg ins Bett um uns zu erholen und Dyroll am nächsten Tag zu befragen.
+Während Dyrrol im OP war, nutzten wir die Zeit um die Gasse nocheinmal genauere anzusehen. Allerdings, konnten wir außer einer durchtrennten Kameraleitung nichts entdecken. Allerdings stellten wir fest das die Gasse durch ihre abgelegene Art perfekt für illegale Geschäfte geeignet wäre. also machten wir uns auf den Weg ins Bett um uns zu erholen und Dyroll am nächsten Tag zu befragen.
 
 Nächste Session: [[Session 4]]
