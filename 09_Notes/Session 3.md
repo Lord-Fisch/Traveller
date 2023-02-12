@@ -1,4 +1,4 @@
-Datum: 2023-02-26
+Datum: 2023-01-26
 Vorherige Session: [[Session 2]]
 
 Bei genauerer Untersuchung des [[Torso]] erkannten wir ([[Harvey 'Harv' Tuft]], [[Brano Iskamar]], [[Ianto Holbrook]], [[Leroy Jethro Gibbs]] und [[Jack de Lek]]), das die Person, welcher dieser gehörte schon mindestens 2 Tage tot sein muss und das dessen Extemitäten wahrscheinlich mit einem scharfen Gegenstand grob abgetrennt wurden.

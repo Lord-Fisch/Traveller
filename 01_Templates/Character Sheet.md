@@ -22,14 +22,14 @@
 **Homeworld**:
 
 ## Characteristics
-Stat|Value|DM
-----|-----|----
-**STRength**:||
-**DEXterity**:||
-**ENDurance**:||
-**INTellect**:||
-**EDUcation**:||
-**SOCial**:||
+Stat|Value|DM|Damage
+----|-----|----|----
+**STRength**:|||
+**DEXterity**:|||
+**ENDurance**:|||
+**INTellect**:|||
+**EDUcation**:|||
+**SOCial**:|||
 
 ### Additional Stats
 Stat|Value|DM
@@ -54,97 +54,31 @@ Weeks:  /
 Study periods complete:  
 
 ## Skills
-Admin
-Advocate
-Animals
-	Handling
-	Training
-	Veterinary
-Art
-	-
-Astrogation
-Athletics
-	Dexterity
-	Endurance
-	Strength
-Broker
-Carouse
-Deception
-Diplomat
-Drive
-	Hovercraft
-	Mole
-	Tracked
-	Walker
-	Wheeled
-Electronics
-	Comms
-	Computers
-	Remote Ops
-	Sensors
-Engineer
-	J-Drive
-	Life Support
-	M-Drive
-	Power Plant
-Explosives
-Flyer
-	Airship
-	Grav
-	Ornithopter
-	Rotor
-	Wing
-Gambler
-Gunner
-	Capital
-	Ortillery
-	Screen
-	Turret
-Gun Combat
-	Archaic
-	Energy
-	Slug
-	-
-Heavy Weapons
-	Artillery
-	Man-Portable
-	Vehicle
-Investigate
-Language
-	-
-Leadership
-Mechanic
-Medic
-Melee
-	Blade
-	Bludgeon
-	Natural
-	Unarmed
-Navigation
-Persuade
-Pilot
-	Capital Ships
-	Small Craft
-	Spacecraft
-Profession
-	-
-Recon
-Science
-	-
-Seafarer
-	Ocean Ships
-	Personal
-	Sail
-	Submarine
-Stealth
-Steward
-Streetwise
-Survival
-Tactics
-	Military
-	Naval
-Vacc Suit
--
+**Skill**|**LvL**|**Skill**|**LvL**|**Skill**|**LvL**|**Skill**|**LvL**
+----------------|-|---------------|-|---------------|-|---------------|-
+Admin           | |Electronics    | |Gun Combat     | |Pilot          | 
+Advocate        | |--Comms        | |--Archaic      | |--Capital Ships| 
+Animals         | |--Computers    | |--Energy       | |--Small Craft  | 
+--Handling      | |--Remote Ops   | |--Slug         | |--Spacecraft   | 
+--Training      | |--Sensors      | |Heavy Weapons  | |Profession     | 
+--Veterinary    | |Engineer       | |--Artillery    | |--             | 
+Art             | |--J-Drive      | |--Man-Portable | |Recon          | 
+--*Write*         | |--Life Support | |--Vehicle      | |Science        | 
+Astrogation     | |--M-Drive      | |Investigate    | |--Archaeology  | 
+Athletics       | |--Power Plant  | |Language       | |--History      | 
+--Dexterity     | |Explosives     | |--Vilani       | |Seafarer       | 
+--Endurance     | |Flyer          | |Leadership     | |--Ocean Ships  | 
+--Strength      | |--Airship      | |Mechanic       | |--Personal     | 
+Broker          | |--Grav         | |Medic          | |--Sail         | 
+Carouse         | |--Ornithopter  | |Melee          | |--Submarine    | 
+Deception       | |--Rotor        | |--Blade        | |Stealth        | 
+Diplomat        | |--Wing         | |--Bludgeon     | |Steward        | 
+Drive           | |Gambler        | |--Natural      | |Streetwise     | 
+--Hovercraft    | |Gunner         | |--Unarmed      | |Survival       | 
+--Mole          | |--Capital      | |Navigation     | |Tactics        | 
+--Tracked       | |--Ortillery    | |Persuade       | |--Military     | 
+--Walker        | |--Screen       | |               | |--Naval        | 
+--Wheeled       | |--Turret       | |               | |Vacc Suit      | 
 
 ## Inventory
 ### Armour

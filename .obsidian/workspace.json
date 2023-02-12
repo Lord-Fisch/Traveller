@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "09_Notes/Session 4.md",
+                "file": "01_Templates/Character Sheet.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "09_Notes/Session 4.md",
+                "file": "01_Templates/Character Sheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "09_Notes/Session 4.md",
+                "file": "01_Templates/Character Sheet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "09_Notes/Session 4.md"
+                "file": "01_Templates/Character Sheet.md"
               }
             }
           },
@@ -138,12 +138,11 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -158,14 +157,14 @@
   "active": "d9d1f291a03651a7",
   "lastOpenFiles": [
     "Current Character Sheet.md",
+    "01_Templates/Character Sheet.md",
     "09_Notes/Session 4.md",
-    "06_Ships/GT-56.md",
+    "03_Places/Planets+Stations/Arcturus.md",
+    "03_Places/Planets+Stations/Arcturus Station.md",
+    "07_Miscellaneous/Koordinaten.md",
     "04_Characters/Allie Timmon.md",
     "06_Ships/Saber 4.md",
-    "06_Ships/BT23.md",
-    "04_Characters/Boris Davlin.md",
-    "04_Characters/Kari Gimsa.md",
-    "09_Notes/Session 2.md",
-    "09_Notes/Session 1.md"
+    "06_Ships/L4M7.md",
+    "README.md"
   ]
 }

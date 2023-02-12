@@ -1,56 +1,17 @@
-gerüchte haben sich auf der station verbreitet
-operation dauert etwas (1/2 tag) länger
-durchsuchen zimmer von dyrrol
-	sicherheitsdienst hilft bei der durchsuchung
-		pinke haare
-		groß
-		auffälig
-	gibbs durchsucht das zimmer sehr professionell
-		private dokemente
-		liebesbriefe
-		keine elektronik
-			ungewöhnlich
-	anruf bei sicherheitsdienst ergibbt keine besucher außer dyrrol selbst
-durchsuchen zimmer von kari gimsa
-	nichts auffälig
-	mehr kleidung als gewöhnlich fehlt
-	paar persönliche sachen
-	anruf ergibt niemanden in den letzten 5 tagen zu besuch außer captain
-durchsuchen zimmer hart fonroe
-	bitte nicht stören
-	sieht aus wie scheiße
-		dreck überall
-		parzi sucht
-			persönlcihe dokumente
-			fotos von hart mit anderen
-				L4M7 crew
-					schiff qualitätskontrollen vernachläßigt von lamarck
-					während einsatz explodiert
-						vor einem jahr
-					keine überlebenden
-			kommunikation mit Omega
-				ob nicht mit omega treffen
-					erkennungzeichen rose
-prüfung der kameras zeigt eine weibliche person an board von gt-56
-	log zeigt aber es sollte 2 sein
-		fonroe
-		allie tim
-	vermutung
-		fonroe, gimsa und boris sind auf saber 4
-		allie ist auf gt56
-		irgendwo im weltraum ist allie mit auf saber4
-saber 4 inhalt 4mcr
-	wert 310mcr
-spinnt von dyrol durchsuchen (an den docks)
-	während wir diskutieren
-		pink hebelt schloß auf
-	wechselklammoten
-	elektronisches endgerät
-		brano hackt 
-			nachrichten
-				memes gegen urshakaan und lamark
-				gespräche mit fonroe
-					koordinaten
-						zeigen auf asteroiden
-machen uns auf den weg zu maria
+Datum: 2023-02-09
+Vorherige Session: [[Session 3]]
+
+Als wir([[Brano Iskamar]], [[Leroy Jethro Gibbs]], [[Ianto Holbrook]], [[Jack de Lek]] und [[Harvey 'Harv' Tuft]]) am nächsten morgen aufwachten hatten sich die Gerüchte über Geschehnisse des vorherigen Tages bereits auf der Station verbreitet. Noch bevor wir uns auf den Weg Richtung [[Med Bay]] machten, bekamen wir einen Anruf. Uns wurde mitgeteilt, dass die Operation und Recovery von [[Dyrrol Mollik]] noch nicht abgeschlossen ist und sich um einen halben Tag verzögern wird.
+Nun ohne Aufgabe für den Vormittag entschlossen wir uns, die Zimmer von Dyrrol, [[Kari Gimsa]] und [[Hart Fonrroe]] zu durchsuchen. An [[Dyroll Mollik's Wohnung]] angekommen, öffneten wir die Tür mithilfe von [[Pink Haired Guy]] einem Mitarbeiter des Sicherheitspersonals, der uns von [[Marja Aguilar]] an die Seite gestellt wurde.
+In der Wohnung nutzte [[Leroy Jethro Gibbs]] seine Ermittlungserfahrung, um den Raum zu durchsuchen, dabei fanden wir einige private Dokumente, sowie alte Liebesbriefe. Ungewöhnlicherweise jedoch keinerlei elektronische Geräte, was uns etwas komisch vorkam. Wir riefen beim Sicherheitsdienst an und fragten [[Samuel]] nach den Türlogs, um zu prüfen, ob außer Dyrrol noch andere Personen in der letzten Zeit betreten hatten, mussten jedoch erfahren, dass niemand sonst die Wohnung betreten hatte.
+Als Nächstes machten wir uns auf den Weg in [[Kari Gimsa's Wohnung]]. Allerdings war auch hier auf den ersten Blick nichts Ungewöhnliches erkennen. Das einzige, was auffällig war, ist dass anscheinend genug Kleidung aus dem Schrank entfernt wurde für eine längere Abwesenheit. Etwas, das für die normale Tätigkeit auf einem Mining Schiff nicht notwendig ist. [[Samuel]] sagte uns nach einem weiteren Anruf leider das bis auf Kari und Captain Fonrroe niemand die Wohnung betreten hat und das seit der Abreise der [[GT-56]] die Tür nicht geöffnet wurde.
+Zuletzt machten wir uns auf den Weg in Richtung [[Captain Fonrroe's Wohnung]], ähnlich wie bei [[Captain Madson's Wohnung]] hing auch hier ein "Bitte nicht stören" Schild an der Tür (welches wir missachteten). Als wir die Wohnung betraten, war diese unter aller Sau, gelinde gesagt. Überall lag Müll und allerdings ließ sich erkennen, dass in diesem Dreck jemand gelebt hat. Wir durchsuchten die Wohnung unter fanden neben verschiedenen persönlichen Gegenständen einige Fotos. Auf diesen war Fonrroe zusammen mit mehreren Crewmitgliedern der [[L4M7]] zu sehen, eben jenem Schiff, welches durch mangelnde Wartung durch [[Lamarck Minerals]] im Einsatz zerstört wurde und dabei das Leben der gesamten Besatzung kostete. Auf den Fotos ließ sich erkennen, dass Fonrroe anscheinend sehr gut mit der Crew befreundet zu gewesen scheint. Zusätzlich zu den Fotos befanden sich im Raum noch ältere Briefe zwischen Fonrroe und [[Omega]], diese scheinen mehrere Monate alt zu sein und in ihnen wollte sich Omega mit Fonrroe im Casino treffen, dabei sollte eine Rose als Erkennungszeichen genutzt werden.
+Wir beschlossen uns gemeinsam, die Köpfe beim Frühstück zusammenstecken und unser weiteres vorgehen zu besprechen, dabei hatten wir die Idee einmal die Kameras vom Abfluggate der GT-56 zu prüfen. Auf dem Kamerafeed war zu sehen das nur eine Person das Schiff vor dem Start betreten hatte. Die Startlogs jedoch sagten das zwei Personen an Bord hätten sein sollen: [[Hart Fonrroe]] und [[Allie Timmon]]. Mithilfe dieser neuen Informationen sowie unserem bisherigem Wissen stellten wir eine sehr überzeugende Theorie auf:
+Nach dem Mord an [[Hummit Madson]], gingen [[Kari Gimsa]], [[Hart Fonrroe]] (gekleidet in der Uniform von Madson) und [[Boris Davlin]] an Bord der [[Saber 4]] und flogen mit dieser fort. Kurze Zeit später ist [[Allie Timmon]] mit der [[GT-56]] dem Schiff gefolgt und hat mit hoher Wahrscheinlichkeit den Autopilot  betätigt und ist im Weltraum ebenfalls an Bord der Saber 4 gegangen und hat dabei die GT-56 in die Weiten des Weltraums driften lassen. Warum der Mord geschehen ist und die Saber 4 gestohlen wurde wissen wir leider noch nicht mit Gewißheit, aber wir gehen davon aus das es etwas mit dem Unglück der [[L4M7]] zu tun hat.
+Nachdem wir unsere Theorie gefasst hatten, entschlossen wir uns einmal den Spinnt von [[Dyrrol Mollik]] auf seiner Arbeit and den Docks zu durchsuchen. Während wir gemeinsam überlegten wie wir diesen am besten öffnen sollten. Ist [[Pink Haired Guy]] leicht entnervt hingegangen und hat diesen mit einer Metalstange, welche am Dock gefunden wurde, aufgehebelt. Neben Wechselklamotten war im Spinnt auch eine elektronisches Endgerät zu finden. [[Brano Iskamar]] nutze seine Cumpouterkenntnisse um das Gerät zu hacken. Dies dauerte etwas, aber am Ende war er Erfolgreich und wir konnten auf den Inhalt des Geräts zugreifen.
+Auf dem Gerät befanden sich mehrere Nachrichten, von denen der großteil Memes und andere Scherze war, welche sich gegen [[Lamarck Minerals]] und [[Ringil Urshukaan]] richteten. Neben diesen, waren jedoch auch Nachrichten zwischen Dyrrol und Fonrroe auf dem Gerät. In diesen befanden sich unteranderem [[Koordinaten]], welche auf einen Asteroiden im Gürtel um [[Arcturus]] zeigten.
+Mit diesen Informationen machten wir uns schließlich auf in Richtung von [[Marja Aguilar]] um ihr von unseren Funden zu berichten und das weitere vorgehen zu besprechen.
+
+Nächste Session: [[Session 5]]
+
 
